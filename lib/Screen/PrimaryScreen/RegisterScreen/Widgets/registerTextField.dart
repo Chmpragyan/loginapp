@@ -16,7 +16,7 @@ class RegisterTextField extends StatelessWidget {
       children: [
         TextFormField(
           decoration: customTextField(
-            textHint: "Full Name",
+            textHint: "Fullname",
             prefixIconField: Icon(Icons.person),
           ),
         ),
