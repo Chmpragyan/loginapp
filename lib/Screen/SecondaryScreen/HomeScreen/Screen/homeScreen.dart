@@ -7,7 +7,7 @@ class HomeBody extends StatelessWidget {
   Widget build(BuildContext context) {
     return Column(
       children: [
-        
+        Text("Hello World"),
       ],
     );
   }
