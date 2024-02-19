@@ -19,7 +19,7 @@ class LoginTextField extends StatelessWidget {
         TextFormField(
           controller: emailController,
           decoration: customTextField(
-            textHint: "Email",
+            textHint: "Email/Username",
             prefixIconField: Icon(Icons.email),
           ),
         ),
